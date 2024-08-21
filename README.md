@@ -4,6 +4,7 @@ Made By Vue.js
 Technologies and Tools Used:
 1. Html(Pug.js)
 2. Css(Sass)
-3. Boostrap Framwork
-4. Font Awesome Icons
+3. JavaScript 
+4. Boostrap Framwork
+5. Font Awesome Icons
    
